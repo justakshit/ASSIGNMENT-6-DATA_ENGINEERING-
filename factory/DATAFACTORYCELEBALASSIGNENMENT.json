@@ -1,0 +1,9 @@
+{
+	"name": "DATAFACTORYCELEBALASSIGNENMENT",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c6826292-c788-420f-a5d5-45718c60809a",
+		"tenantId": "1e619b77-d652-418c-ba43-ceca754dac1d"
+	}
+}
